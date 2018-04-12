@@ -1,0 +1,22 @@
+/Makefile/1.1/Sun Aug 24 18:11:40 2003//
+/directory.cpp/1.5/Tue Oct  7 17:35:19 2008//
+/directory_create.cpp/1.2/Sat May 28 11:03:53 2005//
+/file.cpp/1.3/Sat Feb  7 12:46:59 2004//
+/filereference.cpp/1.4/Fri Feb 27 07:33:43 2004//
+/filereference_info.cpp/1.4/Sun May 29 08:46:00 2005//
+/filereference_rename.cpp/1.2/Sat May 28 11:03:53 2005//
+/fsnode.cpp/1.4/Thu Oct 13 08:33:47 2005//
+/memfile.cpp/1.2/Sun Sep 19 13:56:46 2004//
+/nodemonitor.cpp/1.4/Sat Feb  7 12:46:59 2004//
+/operation_copy.cpp/1.5/Sat Nov 29 20:06:20 2008//
+/operation_delete.cpp/1.2/Mon May 16 17:20:07 2005//
+/operation_move.cpp/1.5/Thu Mar  8 14:21:17 2007//
+/path.cpp/1.2/Sun Jan 25 09:34:22 2004//
+/registrar.cpp/1.7/Sun Jun  3 09:41:11 2007//
+/seekableio.cpp/1.1/Sun Aug 24 18:12:21 2003//
+/storage.ddoc/1.1/Sun Aug 24 18:11:40 2003//
+/streamableio.cpp/1.1/Sun Aug 24 18:12:21 2003//
+/symlink.cpp/1.3/Sat Feb  7 12:46:59 2004//
+/tempfile.cpp/1.3/Sat Feb  7 12:46:59 2004//
+/volumes.cpp/1.5/Sat Nov 18 13:10:41 2006//
+D
